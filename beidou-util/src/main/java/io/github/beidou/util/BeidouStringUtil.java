@@ -1,4 +1,4 @@
-package org.beidou.util;
+package io.github.beidou.util;
 
 /**
  * @author bihaiyang
